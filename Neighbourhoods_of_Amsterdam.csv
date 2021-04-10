@@ -1,0 +1,92 @@
+City,Neighbourhood,Address,location,point,latitude,longitude,altitude
+Amsterdam,Amsteldorp,"Amsteldorp, Amsterdam","Huisarts Amsteldorp, Middelhoffstraat, Frankendael, Oost, Amsterdam, Noord-Holland, Nederland, 1097NE, Nederland","(52.3443384, 4.9220313, 0.0)",52.3443384,4.9220313,0.0
+Amsterdam,Amsterdam Oud-West,"Amsterdam Oud-West, Amsterdam","HEMA Amsterdam-Kinkerstraat, 313, Kinkerstraat, Van Lennepbuurt, West, Amsterdam, Noord-Holland, Nederland, 1053EV, Nederland","(52.3647387, 4.8630105, 0.0)",52.3647387,4.8630105,0.0
+Amsterdam,Amsterdam Oud-Zuid,"Amsterdam Oud-Zuid, Amsterdam","Amsterdam-Oud Zuid, Ringweg-Zuid, Zuidas, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 EE, Nederland","(52.3391253, 4.8661853, 0.0)",52.3391253,4.8661853,0.0
+Amsterdam,Amsterdam Science Park,"Amsterdam Science Park, Amsterdam","Amsterdam Science Park, Kruislaan, Watergraafsmeer, Oost, Amsterdam, Noord-Holland, Nederland, 1098SJ, Nederland","(52.352926, 4.948315, 0.0)",52.352926,4.948315,0.0
+Amsterdam,Apollobuurt,"Apollobuurt, Amsterdam","Apollobuurt, Zuid, Amsterdam, Noord-Holland, Nederland","(52.348072599999995, 4.875559011765657, 0.0)",52.348072599999995,4.875559011765657,0.0
+Amsterdam,Betondorp,"Betondorp, Amsterdam","Betondorp, Amsterdam, Noord-Holland, Nederland","(52.3404033, 4.9431701, 0.0)",52.3404033,4.9431701,0.0
+Amsterdam,Bijlmermeer,"Bijlmermeer, Amsterdam","Bijlmer, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1104MG, Nederland","(52.3170328, 4.9649907, 0.0)",52.3170328,4.9649907,0.0
+Amsterdam,Binnenstad ,"Binnenstad , Amsterdam","Fest Amsterdam, 12, Lange Jansstraat, Binnenstad, Utrecht, Nederland, 3512BB, Nederland","(52.0936216, 5.1196904, 0.0)",52.0936216,5.1196904,0.0
+Amsterdam,Bos en Lommer,"Bos en Lommer, Amsterdam","Bos en Lommer, Bosleeuw, Amsterdam, Noord-Holland, Nederland, 1055DZ, Nederland","(52.3785206, 4.8487385, 0.0)",52.3785206,4.8487385,0.0
+Amsterdam,Buiksloot,"Buiksloot, Amsterdam","Tuindorp Buiksloot, Noord, Amsterdam, Noord-Holland, Nederland","(52.39256175, 4.929278957446687, 0.0)",52.39256175,4.929278957446687,0.0
+Amsterdam,Buikslotermeer,"Buikslotermeer, Amsterdam","Buikslotermeer, Amsterdam, Noord-Holland, Nederland","(52.39943875, 4.943135135532968, 0.0)",52.39943875,4.943135135532968,0.0
+Amsterdam,Buitenveldert,"Buitenveldert, Amsterdam","Buitenveldert, Amsterdam, Noord-Holland, Nederland, 1082JV, Nederland","(52.3286468, 4.8735234, 0.0)",52.3286468,4.8735234,0.0
+Amsterdam,Bullewijk,"Bullewijk, Amsterdam","Bullewijk, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1101, Nederland","(52.304056, 4.9456557, 0.0)",52.304056,4.9456557,0.0
+Amsterdam,Burgwallen Nieuwe Zijde,"Burgwallen Nieuwe Zijde, Amsterdam","Burgwallen-Nieuwe Zijde, Centrum, Amsterdam, Noord-Holland, Nederland","(52.373706049999996, 4.889922444800452, 0.0)",52.373706049999996,4.889922444800452,0.0
+Amsterdam,Burgwallen Oude Zijde,"Burgwallen Oude Zijde, Amsterdam","Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3719455, 4.896102752948329, 0.0)",52.3719455,4.896102752948329,0.0
+Amsterdam,Cruquiuseiland,"Cruquiuseiland, Amsterdam","Cruquius-eiland, Oost, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1023, Nederland","(52.370395349999995, 4.954211698549512, 0.0)",52.370395349999995,4.954211698549512,0.0
+Amsterdam,Czaar Peterbuurt,"Czaar Peterbuurt, Amsterdam","Czaar Peterbuurt, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3690688, 4.9282983, 0.0)",52.3690688,4.9282983,0.0
+Amsterdam,Dapperbuurt,"Dapperbuurt, Amsterdam","Dapperbuurt, Oost, Amsterdam, Noord-Holland, Nederland","(52.3618056, 4.927432547972975, 0.0)",52.3618056,4.927432547972975,0.0
+Amsterdam,De Aker,"De Aker, Amsterdam","De Aker, Sloten, Amsterdam, Noord-Holland, Nederland, 1069PX, Nederland","(52.3506321, 4.7831828, 0.0)",52.3506321,4.7831828,0.0
+Amsterdam,De Pijp,"De Pijp, Amsterdam","de Pijp, Zuid, Amsterdam, Noord-Holland, Nederland","(52.3542396, 4.896946171061886, 0.0)",52.3542396,4.896946171061886,0.0
+Amsterdam,De Wallen,"De Wallen, Amsterdam","de Wallen, Duivensteeg, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012GJ, Nederland","(52.3734085, 4.898273760600533, 0.0)",52.3734085,4.898273760600533,0.0
+Amsterdam,Diamantbuurt ,"Diamantbuurt , Amsterdam","Diamantbuurt, Amsterdam, Noord-Holland, Nederland","(52.3508183, 4.90183302655749, 0.0)",52.3508183,4.90183302655749,0.0
+Amsterdam,Duivelseiland ,"Duivelseiland , Amsterdam","Duivelseiland, Zuid, Amsterdam, Noord-Holland, Nederland","(52.3535099, 4.884215287173981, 0.0)",52.3535099,4.884215287173981,0.0
+Amsterdam,Eastern Docklands,"Eastern Docklands, Amsterdam","Oostelijk Havengebied, Amsterdam, Noord-Holland, Nederland","(52.3735527, 4.9384713, 0.0)",52.3735527,4.9384713,0.0
+Amsterdam,Eendracht ,"Eendracht , Amsterdam","De Eendracht, Amsterdam, Noord-Holland, Nederland, 1067VG, Nederland","(52.380762, 4.7904984, 0.0)",52.380762,4.7904984,0.0
+Amsterdam,Floradorp,"Floradorp, Amsterdam","Floradorp, Noord, Amsterdam, Noord-Holland, Nederland","(52.39853155, 4.914831648238545, 0.0)",52.39853155,4.914831648238545,0.0
+Amsterdam,Frederik Hendrikbuurt,"Frederik Hendrikbuurt, Amsterdam","Frederik Hendrikbuurt, West, Amsterdam, Noord-Holland, Nederland","(52.3762344, 4.8737427, 0.0)",52.3762344,4.8737427,0.0
+Amsterdam,Gaasperdam,"Gaasperdam, Amsterdam","Gaasperdam-schooltuin, Zuidoost, Amsterdam, Noord-Holland, Nederland","(52.30621725, 4.971679942600409, 0.0)",52.30621725,4.971679942600409,0.0
+Amsterdam,Geuzenveld,"Geuzenveld, Amsterdam","Geuzenveld, Amsterdam, Noord-Holland, Nederland, 1067JR, Nederland","(52.3783939, 4.8016275, 0.0)",52.3783939,4.8016275,0.0
+Amsterdam,Gouden Reael,"Gouden Reael, Amsterdam","De Gouden Reael, 14, Zandhoek, Centrum, Amsterdam, Noord-Holland, Nederland, 1013KT, Nederland","(52.3881355, 4.8900059, 0.0)",52.3881355,4.8900059,0.0
+Amsterdam,Grachtengordel,"Grachtengordel, Amsterdam","Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland","(52.370836999999995, 4.885478190638034, 0.0)",52.370836999999995,4.885478190638034,0.0
+Amsterdam,Haarlemmerbuurt ,"Haarlemmerbuurt , Amsterdam","Haarlemmerbuurt, Centrum, Amsterdam, Noord-Holland, Nederland, 1013, Nederland","(52.382441299999996, 4.887193084850383, 0.0)",52.382441299999996,4.887193084850383,0.0
+Amsterdam,Houthaven,"Houthaven, Amsterdam","Houthaven, Amsterdam, Noord-Holland, Nederland, 1013, Nederland","(52.39337645, 4.881680240481273, 0.0)",52.39337645,4.881680240481273,0.0
+Amsterdam,IJburg,"IJburg, Amsterdam","IJburg, Amsterdam, Noord-Holland, Nederland","(52.3549938, 4.9971565, 0.0)",52.3549938,4.9971565,0.0
+Amsterdam,Indische Buurt,"Indische Buurt, Amsterdam","Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland","(52.36199475, 4.938969409671746, 0.0)",52.36199475,4.938969409671746,0.0
+Amsterdam,Java-eiland,"Java-eiland, Amsterdam","Java-eiland, Amsterdam, Noord-Holland, Nederland","(52.3782115, 4.930814229207762, 0.0)",52.3782115,4.930814229207762,0.0
+Amsterdam,Jordaan,"Jordaan, Amsterdam","Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3754157, 4.8810958, 0.0)",52.3754157,4.8810958,0.0
+Amsterdam,Kadijken,"Kadijken, Amsterdam","Kadijken, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3681554, 4.9185863, 0.0)",52.3681554,4.9185863,0.0
+Amsterdam,Kadoelen,"Kadoelen, Amsterdam","Kadoelen, Amsterdam, Noord-Holland, Nederland","(52.4164471, 4.899303631340722, 0.0)",52.4164471,4.899303631340722,0.0
+Amsterdam,Kinkerbuurt,"Kinkerbuurt, Amsterdam","Kinkerbuurt, West, Amsterdam, Noord-Holland, Nederland","(52.3681169, 4.8661969, 0.0)",52.3681169,4.8661969,0.0
+Amsterdam,KNSM Island,"KNSM Island, Amsterdam","KNSM-eiland, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1023, Nederland","(52.3766658, 4.942772357423037, 0.0)",52.3766658,4.942772357423037,0.0
+Amsterdam,Landelijk Noord,"Landelijk Noord, Amsterdam","Brandweerkazerne Landelijk Noord, 33, Dorpsweg Ransdorp, Ransdorp, Amsterdam, Noord-Holland, Nederland, 1028BK, Nederland","(52.392507, 4.994269, 0.0)",52.392507,4.994269,0.0
+Amsterdam,Landlust,"Landlust, Amsterdam","Landlust, West, Amsterdam, Noord-Holland, Nederland","(52.379775300000006, 4.858760089030568, 0.0)",52.379775300000006,4.858760089030568,0.0
+Amsterdam,Lastage,"Lastage, Amsterdam","Restaurant Lastage, 29, Geldersekade, Chinatown, Centrum, Amsterdam, Noord-Holland, Nederland, 1011EJ, Nederland","(52.3754586, 4.9024018, 0.0)",52.3754586,4.9024018,0.0
+Amsterdam,Molenwijk ,"Molenwijk , Amsterdam","Molenwijk, Molenwijkpark, Amsterdam, Noord-Holland, Nederland, 1035RH, Nederland","(52.4163782, 4.8926973, 0.0)",52.4163782,4.8926973,0.0
+Amsterdam,Museumkwartier ,"Museumkwartier , Amsterdam","Museumkwartier, Zuid, Amsterdam, Noord-Holland, Nederland","(52.355760950000004, 4.876834631189791, 0.0)",52.355760950000004,4.876834631189791,0.0
+Amsterdam,NDSM,"NDSM, Amsterdam","NDSM, Amsterdam, Noord-Holland, Nederland","(52.40037365, 4.8929538803061545, 0.0)",52.40037365,4.8929538803061545,0.0
+Amsterdam,Negen Straatjes,"Negen Straatjes, Amsterdam","Negen Straatjes, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3705573, 4.885456958674148, 0.0)",52.3705573,4.885456958674148,0.0
+Amsterdam,Nieuw Sloten,"Nieuw Sloten, Amsterdam","Nieuw-Sloten, Sloten, Amsterdam, Noord-Holland, Nederland, 1066NJ, Nederland","(52.3465237, 4.8115265, 0.0)",52.3465237,4.8115265,0.0
+Amsterdam,Nieuwe Pijp,"Nieuwe Pijp, Amsterdam","Nieuwe Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1072PG, Nederland","(52.3503832, 4.8944506, 0.0)",52.3503832,4.8944506,0.0
+Amsterdam,Nieuwendam,"Nieuwendam, Amsterdam","Nieuwendam, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1023, Nederland","(52.3944725, 4.953411577173451, 0.0)",52.3944725,4.953411577173451,0.0
+Amsterdam,Olympisch Kwartier,"Olympisch Kwartier, Amsterdam","Olympisch Kwartier, Amsterdam, Noord-Holland, Nederland","(52.34608395, 4.854767850197994, 0.0)",52.34608395,4.854767850197994,0.0
+Amsterdam,Omval,"Omval, Amsterdam","Omval, Oost, Amsterdam, Noord-Holland, Nederland, 1096HV, Nederland","(52.3446346, 4.9151652, 0.0)",52.3446346,4.9151652,0.0
+Amsterdam,Oostelijke Eilanden,"Oostelijke Eilanden, Amsterdam","Oostelijke Eilanden, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3715529, 4.9218401, 0.0)",52.3715529,4.9218401,0.0
+Amsterdam,Oosterdokseiland,"Oosterdokseiland, Amsterdam","Oosterdokseiland, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3762496, 4.9073075, 0.0)",52.3762496,4.9073075,0.0
+Amsterdam,Oosterparkbuurt ,"Oosterparkbuurt , Amsterdam","Oosterparkbuurt, Oost, Amsterdam, Noord-Holland, Nederland","(52.358915100000004, 4.913259686933955, 0.0)",52.358915100000004,4.913259686933955,0.0
+Amsterdam,Oostoever,"Oostoever, Amsterdam","Oostoever, Slotervaart, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1064WR, Nederland","(52.3653387, 4.8269932, 0.0)",52.3653387,4.8269932,0.0
+Amsterdam,Oostpoort,"Oostpoort, Amsterdam","Oostpoort, Oost, Amsterdam, Noord-Holland, Nederland","(52.3571725, 4.931122054100544, 0.0)",52.3571725,4.931122054100544,0.0
+Amsterdam,Oostzanerwerf,"Oostzanerwerf, Amsterdam","Oostzanerwerf, Amsterdam, Noord-Holland, Nederland","(52.419486750000004, 4.889508136867875, 0.0)",52.419486750000004,4.889508136867875,0.0
+Amsterdam,Osdorp,"Osdorp, Amsterdam","Osdorp, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068MV, Nederland","(52.3566186, 4.799164, 0.0)",52.3566186,4.799164,0.0
+Amsterdam,Oud Osdorp,"Oud Osdorp, Amsterdam","Begraafplaats Oud-Osdorp, Osdorperweg, Amsterdam, Noord-Holland, Nederland, 1067ST, Nederland","(52.3675657, 4.7846122, 0.0)",52.3675657,4.7846122,0.0
+Amsterdam,Oud-Oost,"Oud-Oost, Amsterdam","Oud Rozenburgh, Klein Dantzig, Oost, Amsterdam, Noord-Holland, Nederland, 1097EK, Nederland","(52.3492883, 4.9286589, 0.0)",52.3492883,4.9286589,0.0
+Amsterdam,Oude Pijp,"Oude Pijp, Amsterdam","Oude Pijp, Zuid, Amsterdam, Noord-Holland, Nederland","(52.35521635, 4.894573658547997, 0.0)",52.35521635,4.894573658547997,0.0
+Amsterdam,Overhoeks,"Overhoeks, Amsterdam","Overhoeks, Amsterdam, Noord-Holland, Nederland","(52.38688415, 4.902976120440213, 0.0)",52.38688415,4.902976120440213,0.0
+Amsterdam,Overtoomse Veld,"Overtoomse Veld, Amsterdam","Overtoomse Veld, Amsterdam, Noord-Holland, Nederland, 1062JP, Nederland","(52.3641934, 4.8379711, 0.0)",52.3641934,4.8379711,0.0
+Amsterdam,Plantage,"Plantage, Amsterdam","Plantage, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3657049, 4.9136608, 0.0)",52.3657049,4.9136608,0.0
+Amsterdam,Ransdorp,"Ransdorp, Amsterdam","Ransdorp, Amsterdam, Noord-Holland, Nederland, 1028, Nederland","(52.3937331, 4.9946364, 0.0)",52.3937331,4.9946364,0.0
+Amsterdam,Rapenburg ,"Rapenburg , Amsterdam","Rapenburg, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3716806, 4.9090084, 0.0)",52.3716806,4.9090084,0.0
+Amsterdam,Rivierenbuurt ,"Rivierenbuurt , Amsterdam","Rivierenbuurt, Amsterdam, Noord-Holland, Nederland, 1079GV, Nederland","(52.34404, 4.9036533, 0.0)",52.34404,4.9036533,0.0
+Amsterdam,Ruigoord,"Ruigoord, Amsterdam","Ruigoord, Amsterdam, Noord-Holland, Nederland, 1047, Nederland","(52.4099167, 4.7494222, 0.0)",52.4099167,4.7494222,0.0
+Amsterdam,Schellingwoude,"Schellingwoude, Amsterdam","Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1023, Nederland","(52.3837449, 4.9643217, 0.0)",52.3837449,4.9643217,0.0
+Amsterdam,Schinkelbuurt,"Schinkelbuurt, Amsterdam","Schinkelbuurt, Amsterdam, Noord-Holland, Nederland","(52.35260635, 4.8545909852399625, 0.0)",52.35260635,4.8545909852399625,0.0
+Amsterdam,Slotermeer,"Slotermeer, Amsterdam","Slotermeer, Amsterdam, Noord-Holland, Nederland, 1064TG, Nederland","(52.3779612, 4.821952, 0.0)",52.3779612,4.821952,0.0
+Amsterdam,Slotervaart ,"Slotervaart , Amsterdam","Slotervaart, Nieuw-West, Amsterdam, Noord-Holland, Nederland","(52.3612861, 4.827466, 0.0)",52.3612861,4.827466,0.0
+Amsterdam,Spaarndammerbuurt,"Spaarndammerbuurt, Amsterdam","Spaarndammerbuurt, Amsterdam, Noord-Holland, Nederland, 1013, Nederland","(52.389662599999994, 4.87936892609182, 0.0)",52.389662599999994,4.87936892609182,0.0
+Amsterdam,Staatsliedenbuurt ,"Staatsliedenbuurt , Amsterdam","Staatsliedenbuurt, West, Amsterdam, Noord-Holland, Nederland, 1051, Nederland","(52.3802865, 4.870950694196747, 0.0)",52.3802865,4.870950694196747,0.0
+Amsterdam,Stadionbuurt,"Stadionbuurt, Amsterdam","Stadionbuurt, Zuid, Amsterdam, Noord-Holland, Nederland","(52.3465311, 4.862065826377204, 0.0)",52.3465311,4.862065826377204,0.0
+Amsterdam,Steigereiland,"Steigereiland, Amsterdam","Steigereiland, Durgerdam, Amsterdam, Noord-Holland, Nederland, 1086, Nederland","(52.362378500000005, 4.978976396753238, 0.0)",52.362378500000005,4.978976396753238,0.0
+Amsterdam,Teleport ,"Teleport , Amsterdam","Teleport, Naritaweg, Amsterdam, Noord-Holland, Nederland, 1043CA, Nederland","(52.3874327, 4.8317147, 0.0)",52.3874327,4.8317147,0.0
+Amsterdam,Transvaalbuurt ,"Transvaalbuurt , Amsterdam","Transvaalbuurt, Oost, Amsterdam, Noord-Holland, Nederland","(52.35386365, 4.920172387174354, 0.0)",52.35386365,4.920172387174354,0.0
+Amsterdam,Tuindorp Nieuwendam,"Tuindorp Nieuwendam, Amsterdam","Tuindorp Nieuwendam, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1023, Nederland","(52.390470449999995, 4.946900960386053, 0.0)",52.390470449999995,4.946900960386053,0.0
+Amsterdam,Tuindorp Oostzaan,"Tuindorp Oostzaan, Amsterdam","Tuindorp Oostzaan, Amsterdam, Noord-Holland, Nederland","(52.41279645, 4.888052363986839, 0.0)",52.41279645,4.888052363986839,0.0
+Amsterdam,Uilenburg ,"Uilenburg , Amsterdam","Uilenburg, Centrum, Amsterdam, Noord-Holland, Nederland","(52.3704196, 4.9047437, 0.0)",52.3704196,4.9047437,0.0
+Amsterdam,Venserpolder,"Venserpolder, Amsterdam","Venserpolder, Dalsteindreef, D buurt, Amsterdam, Noord-Holland, Nederland, 1102XA, Nederland","(52.3267669, 4.9463398, 0.0)",52.3267669,4.9463398,0.0
+Amsterdam,Watergraafsmeer,"Watergraafsmeer, Amsterdam","Watergraafsmeer, Oost, Amsterdam, Noord-Holland, Nederland, 1098RP, Nederland","(52.349809, 4.9382992, 0.0)",52.349809,4.9382992,0.0
+Amsterdam,Weesperzijde ,"Weesperzijde , Amsterdam","Weesperzijde, Oost, Amsterdam, Noord-Holland, Nederland","(52.35394785, 4.911977761220475, 0.0)",52.35394785,4.911977761220475,0.0
+Amsterdam,Westerpark ,"Westerpark , Amsterdam","Westerpark, West, Amsterdam, Noord-Holland, Nederland","(52.387236349999995, 4.871777328438663, 0.0)",52.387236349999995,4.871777328438663,0.0
+Amsterdam,Willemspark ,"Willemspark , Amsterdam","Café Willemspark, 223, Willemsparkweg, Museumkwartier, Zuid, Amsterdam, Noord-Holland, Nederland, 1071HC, Nederland","(52.3552537, 4.8683772, 0.0)",52.3552537,4.8683772,0.0
+Amsterdam,Zeeburgereiland,"Zeeburgereiland, Amsterdam","Zeeburgereiland, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1095, Nederland","(52.372608299999996, 4.965545531374505, 0.0)",52.372608299999996,4.965545531374505,0.0
+Amsterdam,Zeeheldenbuurt,"Zeeheldenbuurt, Amsterdam","Zeeheldenbuurt, Amsterdam, Noord-Holland, Nederland, 1013, Nederland","(52.389329849999996, 4.888242227776295, 0.0)",52.389329849999996,4.888242227776295,0.0
+Amsterdam,Zuidas,"Zuidas, Amsterdam","Zuidas, Zuid, Amsterdam, Noord-Holland, Nederland, 1082MM, Nederland","(52.3377797, 4.8734447, 0.0)",52.3377797,4.8734447,0.0
