@@ -1,0 +1,57 @@
+City,Type,Number,Neighbourhood,Address,location,point,latitude,longitude,altitude
+Rome,R,I,Monti,"Monti, Rome","Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia","(41.8960807, 12.4902875, 0.0)",41.8960807,12.4902875,0.0
+Rome,R,II,Trevi,"Trevi, Rome","Fontana di Trevi, Piazza di Trevi, Rione II Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia","(41.9009778, 12.483284973816568, 0.0)",41.9009778,12.483284973816568,0.0
+Rome,R,III,Colonna,"Colonna, Rome","Colonna, Roma Capitale, Lazio, Italia","(41.833718, 12.753184, 0.0)",41.833718,12.753184,0.0
+Rome,R,IV,Campo Marzio,"Campo Marzio, Rome","Campo Marzio, Via di Monte D'Oro, Rione IV Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia","(41.9046467, 12.477055153077067, 0.0)",41.9046467,12.477055153077067,0.0
+Rome,R,V,Ponte,"Ponte, Rome","Ponte, Vicovaro-Prato delle Forme, Vicovaro, Roma Capitale, Lazio, Italia","(42.0405159, 12.8535379, 0.0)",42.0405159,12.8535379,0.0
+Rome,R,VI,Parione,"Parione, Rome","Rione VI Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia","(41.897357650000004, 12.471102470129265, 0.0)",41.897357650000004,12.471102470129265,0.0
+Rome,R,VII,Regola,"Regola, Rome","Rione VII Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia","(41.894375, 12.471030186272873, 0.0)",41.894375,12.471030186272873,0.0
+Rome,R,VIII,Sant'Eustachio,"Sant'Eustachio, Rome","Sant'Eustachio, 82, Piazza di Sant'Eustachio, Rione VIII Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia","(41.898244, 12.4753209, 0.0)",41.898244,12.4753209,0.0
+Rome,R,IX,Pigna,"Pigna, Rome","Rione IX Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia","(41.89711585, 12.479195768321528, 0.0)",41.89711585,12.479195768321528,0.0
+Rome,R,X,Campitelli,"Campitelli, Rome","Rione X Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia","(41.89008455, 12.487415857658215, 0.0)",41.89008455,12.487415857658215,0.0
+Rome,R,XI,Sant'Angelo,"Sant'Angelo, Rome","Sant'Angelo, Roccagiovine, Roma Capitale, Lazio, Italia","(42.0480828, 12.903213, 0.0)",42.0480828,12.903213,0.0
+Rome,R,XII,Ripa,"Ripa, Rome","Rome Rose Garden, Rione XII Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia","(41.884720200000004, 12.485282033724499, 0.0)",41.884720200000004,12.485282033724499,0.0
+Rome,R,XIII,Trastevere,"Trastevere, Rome","Trastevere, Viale delle Mura Portuensi, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00153, Italia","(41.88376495, 12.471269905707086, 0.0)",41.88376495,12.471269905707086,0.0
+Rome,R,XIV,Borgo,"Borgo, Rome","Borgo, Frainili, Palestrina, Roma Capitale, Lazio, 00036, Italia","(41.8402346, 12.8891861, 0.0)",41.8402346,12.8891861,0.0
+Rome,R,XV,Esquilino,"Esquilino, Rome","Esquilino, Via dell'Esquilino, Rione I Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia","(41.8980442, 12.4988632, 0.0)",41.8980442,12.4988632,0.0
+Rome,R,XVI,Ludovisi,"Ludovisi, Rome","Ludovisi, Via Fabio Filzi, Velletri, Roma Capitale, Lazio, 00049, Italia","(41.6842129, 12.7763643, 0.0)",41.6842129,12.7763643,0.0
+Rome,R,XVII,Sallustiano,"Sallustiano, Rome","Sallustiano, Via Marche, Rione XVI Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia","(41.9077238, 12.490797, 0.0)",41.9077238,12.490797,0.0
+Rome,R,XVIII,Castro Pretorio,"Castro Pretorio, Rome","Castro Pretorio, Viale Castro Pretorio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia","(41.9062981, 12.5055586, 0.0)",41.9062981,12.5055586,0.0
+Rome,R,XIX,Celio,"Celio, Rome","Celio, 201/202, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia","(41.8999973, 12.4918757, 0.0)",41.8999973,12.4918757,0.0
+Rome,R,XX,Testaccio,"Testaccio, Rome","Rione XX Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia","(41.87806515, 12.474756730600095, 0.0)",41.87806515,12.474756730600095,0.0
+Rome,R,XXI,San Saba,"San Saba, Rome","Basilica di San Saba, Piazza Gian Lorenzo Bernini, Municipio Roma I, Roma, Roma Capitale, Lazio, 00154, Italia","(41.878636, 12.485526065696128, 0.0)",41.878636,12.485526065696128,0.0
+Rome,R,XXII,Prati,"Prati, Rome","Poste Italiane - Roma Prati, 101, Viale Giuseppe Mazzini, Quartiere XV della Vittoria, Roma, Roma Capitale, Lazio, 00195, Italia","(41.9148746, 12.4614519, 0.0)",41.9148746,12.4614519,0.0
+Rome,Q,I,Flaminio,"Flaminio, Rome","Flaminio, Via di Villa Ruffo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia","(41.9128288, 12.4771394, 0.0)",41.9128288,12.4771394,0.0
+Rome,Q,II,Parioli,"Parioli, Rome","Parioli, 76, Viale Parioli, Quartiere II Parioli, Roma, Roma Capitale, Lazio, 00197, Italia","(41.925949, 12.4873205, 0.0)",41.925949,12.4873205,0.0
+Rome,Q,III,Pinciano,"Pinciano, Rome","Quartiere III Pinciano, Roma, Roma Capitale, Lazio, 00197, Italia","(41.9187807, 12.485333158524591, 0.0)",41.9187807,12.485333158524591,0.0
+Rome,Q,IV,Salario,"Salario, Rome","Salario, Via Chiana, Quartiere XVII Trieste, Roma, Roma Capitale, Lazio, 00198, Italia","(41.922978, 12.5026364, 0.0)",41.922978,12.5026364,0.0
+Rome,Q,V,Nomentano,"Nomentano, Rome","Nomentano, Ciclabile Nomentana, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia","(41.9170024, 12.5129177, 0.0)",41.9170024,12.5129177,0.0
+Rome,Q,VI,Tiburtino,"Tiburtino, Rome","Quartiere VI Tiburtino, Roma, Roma Capitale, Lazio, Italia","(41.899855200000005, 12.523145716495737, 0.0)",41.899855200000005,12.523145716495737,0.0
+Rome,Q,VII,Prenestino-Labicano,"Prenestino-Labicano, Rome","Piazzale Prenestino, Pigneto, Quartiere VII Prenestino-Labicano, Roma, Roma Capitale, Lazio, 00182, Italia","(41.8906946, 12.5257413, 0.0)",41.8906946,12.5257413,0.0
+Rome,Q,VIII,Tuscolano,"Tuscolano, Rome","Quartiere VIII Tuscolano, Roma, Roma Capitale, Lazio, Italia","(41.86989705, 12.539562214305993, 0.0)",41.86989705,12.539562214305993,0.0
+Rome,Q,IX,Appio-Latino,"Appio-Latino, Rome","Permanent Representation of the People's Republic of China to the United Nations Agencies for Food and Agriculture in Rome, Via della Caffarella, Quartiere IX Appio-Latino, Roma, Roma Capitale, Lazio, 00147, Italia","(41.86588895, 12.507449382099903, 0.0)",41.86588895,12.507449382099903,0.0
+Rome,Q,X,Ostiense,"Ostiense, Rome","Ostiense, Quartiere X Ostiense, Roma, Roma Capitale, Lazio, Italia","(41.85728265, 12.477881265979732, 0.0)",41.85728265,12.477881265979732,0.0
+Rome,Q,XI,Portuense,"Portuense, Rome","Quartiere XI Portuense, Roma, Roma Capitale, Lazio, 00149, Italia","(41.86161285, 12.463826764377881, 0.0)",41.86161285,12.463826764377881,0.0
+Rome,Q,XII,Gianicolense,"Gianicolense, Rome","Quartiere XII Gianicolense, Roma, Roma Capitale, Lazio, Italia","(41.87228365, 12.453518769786823, 0.0)",41.87228365,12.453518769786823,0.0
+Rome,Q,XIII,Aurelio,"Aurelio, Rome","Aurelio, Via Aurelia, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00163, Italia","(41.8890752, 12.4082116, 0.0)",41.8890752,12.4082116,0.0
+Rome,Q,XIV,Trionfale,"Trionfale, Rome","Suburbio X Trionfale, Roma, Roma Capitale, Lazio, Italia","(41.93548385, 12.400181212874656, 0.0)",41.93548385,12.400181212874656,0.0
+Rome,Q,XV,Della Vittoria,"Della Vittoria, Rome","Vittoria, Lungomare della Salute, Fiumicino, Roma Capitale, Lazio, 00054, Italia","(41.7671171, 12.2230596, 0.0)",41.7671171,12.2230596,0.0
+Rome,Q,XVI,Monte Sacro,"Monte Sacro, Rome","Monte Sacro, Quartiere XVI Monte Sacro, Roma, Roma Capitale, Lazio, 00141, Italia","(41.9324017, 12.5341258, 0.0)",41.9324017,12.5341258,0.0
+Rome,Q,XVII,Trieste,"Trieste, Rome","Rome, Viale Gorizia, Municipio Roma II, Roma, Roma Capitale, Lazio, 00199, Italia","(41.9185819, 12.51433, 0.0)",41.9185819,12.51433,0.0
+Rome,Q,XVIII,Tor di Quinto,"Tor di Quinto, Rome","Tor di Quinto, Via della Stazione di Tor di Quinto, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00191, Italia","(41.9503611, 12.490039, 0.0)",41.9503611,12.490039,0.0
+Rome,Q,XIX,Prenestino-Centocelle,"Prenestino-Centocelle, Rome","Forte Prenestino, Piazza D'Armi, Quarticciolo, Quartiere XIX Prenestino-Centocelle, Roma, Roma Capitale, Lazio, 00171, Italia","(41.8923425, 12.569105, 0.0)",41.8923425,12.569105,0.0
+Rome,Q,XX,Ardeatino,"Ardeatino, Rome","Quartiere XX Ardeatino, Roma, Roma Capitale, Lazio, Italia","(41.8494305, 12.503642865096335, 0.0)",41.8494305,12.503642865096335,0.0
+Rome,Q,XXI,Pietralata,"Pietralata, Rome","Pietralata, Via Pan, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00157, Italia","(41.9149254, 12.5550931, 0.0)",41.9149254,12.5550931,0.0
+Rome,Q,XXII,Collatino,"Collatino, Rome","Quartiere XXII Collatino, Roma, Roma Capitale, Lazio, 00159, Italia","(41.90685485, 12.554004770156505, 0.0)",41.90685485,12.554004770156505,0.0
+Rome,Q,XXIII,Alessandrino,"Alessandrino, Rome","Alessandrino, Via Casilina, Municipio Roma VI, Roma, Roma Capitale, Lazio, 00169, Italia","(41.8715069, 12.5784614, 0.0)",41.8715069,12.5784614,0.0
+Rome,Q,XXIV,Don Bosco,"Don Bosco, Rome","Don Bosco, Quartiere XXIV Don Bosco, Roma, Roma Capitale, Lazio, 00175, Italia","(41.8595846, 12.5618777, 0.0)",41.8595846,12.5618777,0.0
+Rome,Q,XXV,Appio Claudio,"Appio Claudio, Rome","Appio Claudio, Quartiere XXV Appio Claudio, Roma, Roma Capitale, Lazio, 00174, Italia","(41.8534839, 12.5612178, 0.0)",41.8534839,12.5612178,0.0
+Rome,Q,XXVI,Appio-Pignatelli,"Appio-Pignatelli, Rome","Ristorante Appio Claudio, 11, Via Vallericcia, Quarto Miglio, Quartiere XXVI Appio-Pignatelli, Roma, Roma Capitale, Lazio, 00178, Italia","(41.8469075, 12.547927477227127, 0.0)",41.8469075,12.547927477227127,0.0
+Rome,Q,XXVII,Primavalle,"Primavalle, Rome","Quartiere XXVII Primavalle, Roma, Roma Capitale, Lazio, Italia","(41.92133495, 12.417001994142858, 0.0)",41.92133495,12.417001994142858,0.0
+Rome,Q,XXIX,Ponte Mammolo,"Ponte Mammolo, Rome","Ponte Mammolo, Piazzale della Stazione Ponte Mammolo, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00156, Italia","(41.9207965, 12.5651585, 0.0)",41.9207965,12.5651585,0.0
+Rome,Q,XXX,San Basilio,"San Basilio, Rome","Aleph Rome Hotel, Curio Collection by Hilton, 15, Via di San Basilio, Rione XVI Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia","(41.905424100000005, 12.48972933952782, 0.0)",41.905424100000005,12.48972933952782,0.0
+Rome,Q,XXXI,Giuliano-Dalmata,"Giuliano-Dalmata, Rome","Quartiere XXXI Giuliano-Dalmata, Roma, Roma Capitale, Lazio, 00143, Italia","(41.811338199999994, 12.49921257358783, 0.0)",41.811338199999994,12.49921257358783,0.0
+Rome,Q,XXXII,Europa,"Europa, Rome","Quartiere XXXII Europa, Roma, Roma Capitale, Lazio, 00144, Italia","(41.8337745, 12.4709498, 0.0)",41.8337745,12.4709498,0.0
+Rome,Q,XXXIII,Lido di Ostia Ponente,"Lido di Ostia Ponente, Rome","Teatro del Lido, Via Adolfo Cozza, Quartiere XXXIII Lido di Ostia Ponente, Lido di Ostia, Roma, Roma Capitale, Lazio, 00121, Italia","(41.7326234, 12.271101100000001, 0.0)",41.7326234,12.271101100000001,0.0
+Rome,Q,XXXIV,Lido di Ostia Levante,"Lido di Ostia Levante, Rome","Lido Centro, Via Alessandro Bertolini, Municipio Roma X, Lido di Ostia, Roma, Roma Capitale, Lazio, 00122, Italia","(41.7332001, 12.2841734, 0.0)",41.7332001,12.2841734,0.0
+Rome,Q,XXXV,Lido di Castel Fusano,"Lido di Castel Fusano, Rome","Via del Lido di Castelporziano, Municipio Roma X, Castel Fusano, Roma, Roma Capitale, Lazio, 00124, Italia","(41.7282148, 12.3388137, 0.0)",41.7282148,12.3388137,0.0
